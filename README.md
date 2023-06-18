@@ -61,12 +61,12 @@ I'm open to internship and any type of work.
 | ----------------------------------------------------------------| :---------------: |
 | Python Core by EPAM Systems (training.by)                       |      05/2023      |
 | Pandas Basics for Beginners (stepik.org)                        |      03/2023      |
-| Interactive SQL Trainer (stepik.org)                            |      05/2023      |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение |      05/2023      |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            |      05/2023      |
-| stepik.org/JavaScript для начинающих                            |      05/2023      |
-| stepik.org/Web-технологии: начальный уровень                    |      05/2023      |
-| practicum.yandex/Факультет Веб разработки                       |      05/2023      |
+| Interactive SQL Trainer (stepik.org)                            |      03/2023      |
+| Simulator SQL (karpov.courses)                                  |      02/2023      |
+| "Python Generation": a course for professionals (stepik.org)    |      02/2023      |
+| "Python Generation": advanced course (stepik.org)               |      01/2023      |
+| "Python Generation": a course for beginners     (stepik.org)    |      12/2022      |
+| Data Analysis (stepik.org)                                      |      12/2022      |
 
 ---
 
