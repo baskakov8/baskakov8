@@ -16,8 +16,6 @@ I'm open to internship and any type of work.
 
 - EF SET English Certificate 64/100 (C1 Advanced)
 
-- My contacts: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)][(mailto:baskakov8@mail.com)]
-
 ---
 
 ### 🤝 Social networks:
