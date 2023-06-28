@@ -9,7 +9,7 @@ I am a beginner Python Developer. Self-discipline, constant self-learning and cu
 I have basic knowledge in Python (Numpy, Pandas) and work on projects in PyCharm and rarely in GoogleColab.
 Also I have ability to write difficult SQL-queries(Using JOIN and window functions) and creating dashboards in Redash.
 Moreover, I really like studing English. Intermediate is current level. I study with a tutor and take part in speaking clubs.
-I'm open to internship and any type of work.
+I'm open to internship.
 
 
 - I have already finished a lot of courses about Python and several about SQL.
